@@ -1,2 +1,2 @@
 # test
-test repositiry
+Test python script
